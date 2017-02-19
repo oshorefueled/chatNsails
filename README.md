@@ -1,4 +1,4 @@
 # chatNsails
 
-A Chat App Application Using Sails And Socket.io
+A Chat App Using Sails And Socket.io
 
